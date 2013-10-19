@@ -1,0 +1,1 @@
+A user can create a set of activities that they plan on timing themselves on.  For example, if you were timing yourself for a triathalon, you would add three activities: Swim, Bike, Run.  The user can then name that group of activities, e.g., Triathalon.  The user can have multiple groups of activities.
