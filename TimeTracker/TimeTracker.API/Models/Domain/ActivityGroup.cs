@@ -9,6 +9,7 @@ namespace TimeTracker.API.Models.Domain
     {
         public string Name { get; set; }
         public Guid Id { get; set; }
+        public Guid UserId { get; set; }
         public List<Activity> Activities { get; set; }
         public List<TimedRun> Runs { get; set; }
     }
